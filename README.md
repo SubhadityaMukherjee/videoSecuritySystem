@@ -3,6 +3,4 @@
 - For HackerTech 19 (VIT Hack)
   
 ## Features
-
-
-## Run this
+- Only loitering recognition implemented
